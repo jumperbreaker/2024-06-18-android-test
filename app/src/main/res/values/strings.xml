@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">test</string>
+
+    <string name="air_tickets_title">Поиск дешевых авиабилетов</string>
+    <string name="hotel_title">Поиск дешевых отелей</string>
+    <string name="location_title">Поиск лучших маршрутов</string>
+    <string name="bell_title">Мои подписки</string>
+    <string name="person_title">Мой профиль</string>
+
+    <string name="air">Авиабилеты</string>
+    <string name="hotel">Отели</string>
+    <string name="location">Короче</string>
+    <string name="bell">Подписки</string>
+    <string name="person">Профиль</string>
+
+    <string name="from">Откуда - Москва</string>
+    <string name="to">Куда - Турция</string>
+
+    <string name="air_tickets_text_2">Музыкально отлететь</string>
+    <string name="air_tickets_text_3">Показать все места</string>
+    <string name="air_tickets_text_4">Ваш первый раз</string>
+
+</resources>
